@@ -1,0 +1,166 @@
+<html><!-- #BeginTemplate "/Templates/main.dwt" -->
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app104.us.archive.org';v.server_ms=198;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/playback.bundle.js?v=xTFGO54E" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://neptune.spaceports.com/~msoft/images/products_norm.gif","20040123131438","https://web.archive.org/","web","/_static/",
+	      "1074863678");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=omkqRugM" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<link rel="stylesheet" href="https://web.archive.org/web/20040123131438cs_/http://www.spaceports.com/standard.css" type="text/css">
+<!-- #BeginEditable "doctitle" --> 
+<title>Spaceports.com</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('https://web.archive.org/web/20040123131438/http://www.spaceports.com/images/home-over.gif','https://web.archive.org/web/20040123131438/http://www.spaceports.com/images/signup-over.gif','https://web.archive.org/web/20040123131438/http://www.spaceports.com/images/members-over.gif','https://web.archive.org/web/20040123131438/http://www.spaceports.com/images/help-over.gif','https://web.archive.org/web/20040123131438/http://www.spaceports.com/images/free-email-over.gif','https://web.archive.org/web/20040123131438/http://www.spaceports.com/images/services-over.gif','https://web.archive.org/web/20040123131438/http://www.spaceports.com/images/forum-over.gif','https://web.archive.org/web/20040123131438/http://www.spaceports.com/images/topsites-over.gif')" background="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/starsbg.gif">
+<div align="center">
+<p><a href="https://web.archive.org/web/20040123131438/http://www.spaceports.com/"><img src="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/titlebar.jpg" width="690" height="120" border="0" alt="S P A C E P O R T S"></a><br>
+<table width="690" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td colspan="3" background="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/bar.gif"><img src="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/spacer.gif" width="1" height="5"></td>
+  </tr>
+  <tr valign="middle" align="center"> 
+
+<td colspan="3">
+<font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="3"><img src="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/spacemenu.gif" width="750" height="42" usemap="#Map" border="0"><map name="Map"><area shape="rect" coords="1,13,65,31" href="https://web.archive.org/web/20040123131438/http://www.spaceports.com/freesites/"><area shape="rect" coords="82,13,221,31" href="https://web.archive.org/web/20040123131438/http://config.spaceports.com/"><area shape="rect" coords="237,13,303,33" href="https://web.archive.org/web/20040123131438/http://config.spaceports.com/forum/"><area shape="rect" coords="321,13,401,32" href="https://web.archive.org/web/20040123131438/http://www.spaceports.com/help.htm"><area shape="rect" coords="413,14,483,33" href="https://web.archive.org/web/20040123131438/http://search.spaceports.com/"><area shape="rect" coords="499,13,648,32" href="https://web.archive.org/web/20040123131438/http://www.spaceports.com/services/"><area shape="rect" coords="663,12,749,33" href="https://web.archive.org/web/20040123131438/http://stats.spaceports.com/topsites.html"></map></font>
+    </td>
+  </tr>
+  <tr> 
+    <td background="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/bar.gif" colspan="3"><img src="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/spacer.gif" width="1" height="5" alt=""></td>
+  </tr>
+  <tr valign="top"> 
+    <td align="center" width="142" bgcolor="#330000"> 
+      <p><br>
+<!--NOEDIT   search traffic.com stuff..... -->
+<table border="0" width="120" cellspacing="0" cellpadding="0" bgcolor="#330000">
+<form action="https://web.archive.org/web/20040123131438/http://www.searchtraffic.com/search.php3" method="GET">
+<tr><td><img src="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/websearch.gif" width="120" height="61" border="0" alt=""></td></tr>
+<br>
+<tr><td valign="bottom" height="40" align="center">
+<input type="hidden" value="spaceports" name="l">
+<input type="text" size="15" name="term"><br></b>
+<input type="submit" value="Search"></td></tr> 
+</form></table>
+<!--/NOEDIT   search traffic.com stuff..... -->
+<br>
+<br>
+      <table width="90%" border="0" cellspacing="1" cellpadding="0">
+        <tr> 
+          <th class="title">Whats new :</th>
+        </tr>
+        <tr> 
+          <td class="content"> 
+            <p>Tera-byte Dot Com Inc. has officially opened up their new affiliate site <a href="https://web.archive.org/web/20040123131438/http://www.4webspace.com/">4WebSpace.com</a>.<br>Make sure you check it out!<br>
+            &nbsp;
+            </p>
+          </td>
+        <tr> 
+          <th class="title">Free giveaway:</th>
+        </tr>
+        <tr> 
+          <td class="content"> 
+            <p>Spaceports is now giving away a free web hosting package (with no ads) every month!!!<br>If you are a registered spaceports user you are automatically entered into the random drawing.<br> If you’re not a registered user, head over to the <a href="https://web.archive.org/web/20040123131438/http://www.spaceports.com/freesites">sign-up page</a> now to get started!
+<br>
+            &nbsp;
+            </p>
+          </td>
+        </tr>
+        <tr> 
+          <th class="title">Featured Site:</th>
+        </tr>
+        <tr> 
+          <td class="content"> 
+            <p><br><a href="https://web.archive.org/web/20040123131438/http://neptune.spaceports.com/~dsinz">D'sinz Interactive</a></p>
+            <p><a href="https://web.archive.org/web/20040123131438/http://www.spaceports.com/privacy.htm">privacy policy</a><br>
+              <a href="https://web.archive.org/web/20040123131438/http://www.spaceports.com/ads4all/">advertise with Spaceports</a><br>
+              <a href="https://web.archive.org/web/20040123131438/http://www.spaceports.com/faq/policies.htm">legal</a></p>
+          </td>
+        </tr>
+      </table>
+      <p><img src="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/spacer.gif" width="142" height="1"></p>
+    </td>
+    <td background="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/bar-vert.gif"><img src="https://web.archive.org/web/20040123131438im_/http://www.spaceports.com/images/spacer.gif" width="5" height="1"></td>
+    <td align="center" bgcolor="#333366"> 
+      <p align="center"> 
+        <!-- begin 247 Media ad ... ideally, all instances of 1 should be replaced with another number unique to each page --> 
+<iframe frameborder="0" height="60" marginheight="0" marginwidth="0" scrolling="no" width="468" src="https://web.archive.org/web/20040123131438if_/http://ads.mircx.com/ads/spaceports/468x60/iframe/1">
+<script language="JavaScript" src="https://web.archive.org/web/20040123131438js_/http://ads.mircx.com/ads/spaceports/468x60/javascript/1">
+</script>
+<noscript>
+<a target="_top" href="https://web.archive.org/web/20040123131438/http://ads.mircx.com/ads/spaceports/468x60/click/1">
+<img border="0" height="60" width="468" src="https://web.archive.org/web/20040123131438im_/http://ads.mircx.com/ads/spaceports/468x60/image/1">
+</a>
+</noscript>
+</iframe>
+        <!-- end 247 Media ad --> </p>
+      <table border="0" width="95%">
+        <tr> 
+          <td class="content"><!-- #BeginEditable "content" -->
+           <!-- content goes here -->
+<h1>Forbidden</h1>
+You don't have permission to access the requested URL.<p>
+<script language="JavaScript" src="https://web.archive.org/web/20040123131438js_/http://www.searchwww.com/search.js"></script>
+
+          <!-- #EndEditable --></td>
+        </tr>
+      </table>
+      <p align="center"> </p>
+    </td>
+  </tr>
+</table>
+</div>
+</body>
+<!-- #EndTemplate --></html>
+<!--
+     FILE ARCHIVED ON 13:14:38 Jan 23, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:13:47 Aug 23, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  PetaboxLoader3.resolve: 29.199
+  CDXLines.iter: 20.553 (3)
+  exclusion.robots: 0.146
+  LoadShardBlock: 109.883 (3)
+  exclusion.robots.policy: 0.137
+  load_resource: 53.697
+  RedisCDXSource: 0.636
+  esindex: 0.011
+  PetaboxLoader3.datanode: 98.577 (4)
+  captures_list: 134.617
+-->
